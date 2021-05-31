@@ -9,7 +9,7 @@ namespace SchoolManagement.Controllers
     public class HomeController : Controller
     {
         // GET: Home
-        public ActionResult Index()
+        public ActionResult GetStudentDetails()
         {
             return View();
         }
