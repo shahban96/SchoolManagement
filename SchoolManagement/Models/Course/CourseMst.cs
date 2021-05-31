@@ -10,6 +10,5 @@ namespace SchoolManagement.Models.Course
         public string CourseName { get; set; }
         public string Duration { get; set; }
         public string CourseFees { get; set; }
-
     }
 }
